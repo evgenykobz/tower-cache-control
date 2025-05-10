@@ -1,6 +1,10 @@
 [package]
 name = "tower-cache-control"
 description = "Tower middleware to set Cache-Control response header"
+repository = "https://github.com/evgenykobz/tower-cache-control"
+readme = "README.md"
+keywords = ["tower"]
+categories = ["web-programming"]
 authors = ["Evgeny Kobzev <jenyakobzev@gmail.com>"]
 edition = "2021"
 version = "1.0.0"
