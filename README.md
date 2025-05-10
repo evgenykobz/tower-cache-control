@@ -1,3 +1,8 @@
+<a href="https://crates.io/crates/tower-cache-control">
+    <img src="https://img.shields.io/crates/v/tower-cache-control.svg" />
+</a>
+<hr />
+
 *Tower* layer that simplify setting `Cache-Control` response header, featuring:
 - Opinionated `Cache-Control` value based on the response status
 - Customizable default value
